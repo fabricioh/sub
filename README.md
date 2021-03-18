@@ -1,4 +1,5 @@
-<h3 align="center">sub</h3>
+<h3 align="center">🛸 sub 🛸</h3>
+<p align="center"><i>Navegue subreddits pela linha de comando</i></p>
 <hr/>
 
 ### Uso
