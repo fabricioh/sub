@@ -12,7 +12,7 @@ sub [subreddit] [filtro] [quantidade]
 
 - `subreddit`: De qual subreddit puxar os posts
 - `filtro`: Pode ser `hot`, `new` ou `controversial`
-- `quantidade`: Quantos posts mostrar
+- `quantidade`: Quantos posts mostrar (máximo: 26)
 
 ### Download
 Releases: [aqui](https://github.com/fabricioh/sub/releases)
